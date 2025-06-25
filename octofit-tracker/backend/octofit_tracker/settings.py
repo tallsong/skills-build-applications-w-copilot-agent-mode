@@ -1,3 +1,5 @@
+# Codespace Django REST API endpoint suffix
+CODESPACE_API_BASE_URL = "https://zany-zebra-7r9v7rr779g2r4jr-8000.app.github.dev/api/"
 """
 Django settings for octofit_tracker project.
 
